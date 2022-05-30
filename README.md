@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @littleluigi
-- 👀 I’m interested in coding and video editing
-- 🌱 I’m currently learning HTML, CSS, & JS
-- 📫 How to reach me (don't)
+- 👀 I’m interested in computer programming and creating youtube videos
+- 🌱 I’ve learnt HTML, CSS, & JS and am working on learning Python & C#
+- 📫 How to reach me
 
 <!---
 littleluigi/littleluigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
